@@ -1,0 +1,31 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+.env
+.venv
+
+# Streamlit-specific
+.streamlit/
+
+# MacOS-specific
+.DS_Store
+
+# Editor-specific
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# FAISS index files
+faiss_index_docstore.pkl
+faiss_index_index_to_docstore_id.pkl
+faiss_index.bin
