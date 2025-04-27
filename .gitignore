@@ -29,3 +29,6 @@ __pycache__/
 faiss_index_docstore.pkl
 faiss_index_index_to_docstore_id.pkl
 faiss_index.bin
+
+# Jupter notebook files
+*.ipynb_checkpoints
