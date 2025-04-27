@@ -2,7 +2,7 @@ import streamlit as st
 
 from langchain_helper import create_qa_chain, create_vector_db
 
-st.title("ChatBot Q&A 😎")
+st.title("Ecommerce ChatBot FAQ(s) 🤖")
 
 btn = st.button("Create Knowledge Base")
 
